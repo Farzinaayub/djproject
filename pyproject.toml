@@ -6,7 +6,7 @@ authors = ["Farzeena P A <farzinaayub266@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = ""
 django = "^4.2.1"
 dj-database-url = "^2.0.0"
 psycopg2-binary = "^2.9.6"
